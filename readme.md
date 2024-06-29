@@ -5,17 +5,17 @@
 <br />
 <div align="center">
   <a href="https://github.com/zyx-0314/">
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
+    <img src="./assets/img/429876221_925146285745958_1756909776392887757_n-removebg-preview.png" alt="Nyebe" width="130" height="100">
   </a>
   <h3 align="center">Seatwork 3: Footer & Header</h3>
 </div>
 <div align="center">
-  This is for demonstrating skills in HTML and CSS with Multiple Pages, Effects and Container Manipulations. Providing a Different Versions of Headers and Footers.
+  This project showcases diverse designs of web page headers and footers using HTML and CSS. By exploring visual effects, layouts, and container manipulations, it demonstrates the creative potential for enhancing these crucial page elements. The goal is to inspire web designers to push the boundaries of header and footer design.
 </div>
 
 <br />
 
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Seatwork-3)
+![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Seatwork-3-Camino)
 
 ---
 
